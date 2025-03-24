@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mateus
+💻 Desenvolvedor | [JAVA]
 
-<!--
-**mateuszzk-wq/mateuszzk-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Localização (Montes claros)
 
-Here are some ideas to get you started:
+🛠️ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Sou um desenvolvedor focado em linguagens/tecnologias, e estou sempre buscando aprender novas tecnologias."
+
+📂 Meus Projetos
+
+🔹 [Futebol Mania Noticia]
+
+📌 [Um site sobre noticias de futebol transferências datas de jogos etc.]
+🔗 Link: [Repositório GitHub ou Site}
+📈 Habilidades
+
+🖥️ Linguagens: [Python, Java Script, etc.
+
+🔧 Ferramenta: { GitHub.
+
+🌐 Banco de Dados: [MySQL.
